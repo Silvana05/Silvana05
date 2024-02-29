@@ -5,7 +5,9 @@ Front-end developer 🌱
   
 Languages and Tools:
 
-ANGULAR Y ANGULAR MATERIAL:![image](https://github.com/Silvana05/Silvana05/assets/118639142/7064d97c-7713-4cb7-b1ee-c4f09a658e1f)
+ANGULAR Y ANGULAR MATERIAL:
+
+![image](https://github.com/Silvana05/Silvana05/assets/118639142/7064d97c-7713-4cb7-b1ee-c4f09a658e1f)
 ![image](https://github.com/Silvana05/Silvana05/assets/118639142/848840d2-4875-4123-92ec-9bfa0344fd68)
 
 ![image](https://github.com/Silvana05/Silvana05/assets/118639142/b94c7435-70aa-47b4-b992-c4bd5621a269)
