@@ -12,10 +12,12 @@ Languages and frameworks:
 - BOOTSTRAP,HTML and CSS:
   
 ![image](https://github.com/Silvana05/Silvana05/assets/118639142/b94c7435-70aa-47b4-b992-c4bd5621a269)
-![image](https://github.com/Silvana05/Silvana05/assets/118639142/e862009a-508e-4d44-b424-942629c06a09)
-![image](https://github.com/Silvana05/Silvana05/assets/118639142/55a99fdb-b413-4ab6-875d-9b11cb734da5)
 ![image](https://github.com/Silvana05/Silvana05/assets/118639142/908355a1-427b-4cda-a5e7-444d37625b39)
 ![image](https://github.com/Silvana05/Silvana05/assets/118639142/bf48fcb4-cdb2-41d4-9228-51f8aff0dae7)
+
+- Typescript and Python:
+![image](https://github.com/Silvana05/Silvana05/assets/118639142/e862009a-508e-4d44-b424-942629c06a09)
+![image](https://github.com/Silvana05/Silvana05/assets/118639142/55a99fdb-b413-4ab6-875d-9b11cb734da5)
 
 
 
