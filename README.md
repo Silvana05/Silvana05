@@ -4,8 +4,7 @@ Front-end developer 🌱
 - 📫 How to reach me: silvanapoma05@gmail.com
   
 Languages and Tools:
-
--ANGULAR Y ANGULAR MATERIAL:
+- ANGULAR Y ANGULAR MATERIAL:
 
 ![image](https://github.com/Silvana05/Silvana05/assets/118639142/7064d97c-7713-4cb7-b1ee-c4f09a658e1f)
 ![image](https://github.com/Silvana05/Silvana05/assets/118639142/848840d2-4875-4123-92ec-9bfa0344fd68)
