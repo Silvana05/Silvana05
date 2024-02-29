@@ -16,6 +16,7 @@ Languages and frameworks:
 ![image](https://github.com/Silvana05/Silvana05/assets/118639142/bf48fcb4-cdb2-41d4-9228-51f8aff0dae7)
 
 - Typescript and Python:
+
 ![image](https://github.com/Silvana05/Silvana05/assets/118639142/e862009a-508e-4d44-b424-942629c06a09)
 ![image](https://github.com/Silvana05/Silvana05/assets/118639142/55a99fdb-b413-4ab6-875d-9b11cb734da5)
 
